@@ -7,16 +7,17 @@
 
 ## ✨ Other Repo  
 * 🍦 A windows startup tool, including control panel and mmc  
-![](https://github-readme-stats.vercel.app/api/pin/?username=zhaotianff&repo=Windows-run-tool)  
+<p><a href="https://github.com/zhaotianff/Windows-run-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhaotianff&repo=Windows-run-tool&show_owner=true" style="max-width:100%;"></a></p> 
 
 * 🚴Get a historical suo suo  
-![](https://github-readme-stats.vercel.app/api/pin/?username=zhaotianff&repo=Qzone)  
+<p><a href="https://github.com/zhaotianff/Qzone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhaotianff&repo=Qzone&show_owner=true" style="max-width:100%;"></a></p>
+
 
 ## 💬 About me:
 
 I’m currently in charge of PC software(host computer) development in a medical company
 
-![](https://github-readme-stats.vercel.app/api?username=zhaotianff&show_icons=true&theme=vue)
+![](https://github-readme-stats.vercel.app/api?username=zhaotianff&show_icons=true&theme=vue)  
 
 
 ##  📫 How to reach me:
