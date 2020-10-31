@@ -1,6 +1,6 @@
 ## 😄 Hi there: 
 
- I am a software developer, currently mainly developing WPF applications and win32 lib.I am also very interested in crawlers,Windows Programming and PowerShell.  
+ I am a software developer, currently mainly developing WPF applications and win32 lib.I am also interested in crawlers,Windows programming and PowerShell.  
  
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaotianff&theme=vue)
